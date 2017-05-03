@@ -1,5 +1,5 @@
 [roxterm options]
-colour_scheme=HB
-profile=Default
+colour_scheme=material
+profile=Roboto Mono
 only_warn_running=1
 warn_close=1
