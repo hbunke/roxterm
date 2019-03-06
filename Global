@@ -1,5 +1,5 @@
 [roxterm options]
-colour_scheme=material
-profile=Roboto Mono
+colour_scheme=altrosa
+profile=Source Code Pro
 only_warn_running=1
 warn_close=1

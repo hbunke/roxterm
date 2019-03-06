@@ -17,8 +17,8 @@ palette_size=16
 14=#9393e0e0e3e3
 # 15=#ffffffffffff
 15=#f3f3f3f3f3f3
-foreground=#eeeeeeeeecec
-background=#2c2c2c2c2c2c
+foreground=#2e2e34343636
+background=#adad7f7fa8a8
 
-bold=#eeeeeeeeecec
+bold=
 cursor=#cccccccccccc
